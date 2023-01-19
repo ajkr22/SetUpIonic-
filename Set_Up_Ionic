@@ -1,0 +1,15 @@
+Open VS Code and type
+
+1.ionic start
+no
+React
+myApp
+sidemenu
+no
+2.cd maApp => ionic build
+3.npm install @capacitor/android
+4.npx cap add android
+no
+5.npx cap open android //to open in android studio
+
+6.ionic serve  //to open in chrome
